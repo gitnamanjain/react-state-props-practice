@@ -9,4 +9,4 @@
  - Contact
 ### 4. Use the below image to take the reference.
 
-![Make an application with resusable components](https://gitlab-wipro.stackroute.in/mern-react-boilerplates/crs-sur-1030/react-state-props-practice/-/raw/master/S115-P1.png)
+![Make an application with resusable components](S115-P1.png)
